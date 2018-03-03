@@ -1,0 +1,4 @@
+/home/wuxiaolang/soft/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/wuxiaolang/code/AR/test0126
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wuxiaolang/code/AR/test0126/cmake-build-debug
