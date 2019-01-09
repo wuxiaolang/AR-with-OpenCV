@@ -24,12 +24,12 @@ int main()
 {
     //【1】参数准备.
     //目标图像的读取.
-    Mat img_object = imread("/home/wuxiaolang/code/AR/test0126/SLAM.jpeg");     //目标图像
+    Mat img_object = imread("/home/wu/code/SurfAR/state.jpg");     //目标图像
     resize(img_object, img_object, Size(400,500));              //调整大小.
     //打开相机读取相机图像.
     VideoCapture capture(0);
     //叠加的视频文件.
-    VideoCapture vid("/home/wuxiaolang/视频/demo.mp4");          //需要叠加的视频文件.
+    VideoCapture vid("/home/wu/code/SurfAR/xiaohuangren.mp4");          //需要叠加的视频文件.
     Mat img_scene;                                              //用于读取视频帧.
 
     //【2】定义描述符和特征点向量.

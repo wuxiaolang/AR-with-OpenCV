@@ -1,0 +1,6 @@
+/home/wu/code/SurfAR/build/CMakeFiles/edit_cache.dir
+/home/wu/code/SurfAR/build/CMakeFiles/v3.dir
+/home/wu/code/SurfAR/build/CMakeFiles/rebuild_cache.dir
+/home/wu/code/SurfAR/build/CMakeFiles/v4.dir
+/home/wu/code/SurfAR/build/CMakeFiles/v2.dir
+/home/wu/code/SurfAR/build/CMakeFiles/v1.dir

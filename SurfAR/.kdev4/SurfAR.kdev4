@@ -1,0 +1,65 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x0c\x00S\x00u\x00r\x00f\x00A\x00R)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///home/wu/code/SurfAR/build
+Build Type=Debug
+CMake Binary=file:///usr/local/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+
+[Launch]
+Launch Configurations=Launch Configuration 0,Launch Configuration 1,Launch Configuration 2,Launch Configuration 3
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=v1
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Configured from ProjectItem=SurfAR,v1
+Project Target=SurfAR,v1
+Working Directory=file:///home/wu/code/SurfAR/build/
+isExecutable=false
+
+[Launch][Launch Configuration 1]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=v2
+Type=Native Application
+
+[Launch][Launch Configuration 1][Data]
+Configured from ProjectItem=SurfAR,v2
+Project Target=SurfAR,v2
+Working Directory=file:///home/wu/code/SurfAR/build/
+isExecutable=false
+
+[Launch][Launch Configuration 2]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=v3
+Type=Native Application
+
+[Launch][Launch Configuration 2][Data]
+Configured from ProjectItem=SurfAR,v3
+Project Target=SurfAR,v3
+Working Directory=file:///home/wu/code/SurfAR/build/
+isExecutable=false
+
+[Launch][Launch Configuration 3]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=v4
+Type=Native Application
+
+[Launch][Launch Configuration 3][Data]
+Project Target=SurfAR,v4
+Working Directory=file:///home/wu/code/SurfAR/build/
+isExecutable=false
